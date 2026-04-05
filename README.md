@@ -20,6 +20,9 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/tape567/duck-hunters-shooter-game** and click import
 
+## Play my game!
+
+
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
