@@ -21,7 +21,8 @@ To edit this repository in MakeCode.
 * paste **https://github.com/tape567/duck-hunters-shooter-game** and click import
 
 ## Play my game!
-
+There should be a link for you in the about description. If not, then you can play here!
+https://tape567.github.io/duck-hunters-shooter-game/
 
 #### Metadata (used for search, rendering)
 
