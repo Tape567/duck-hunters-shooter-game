@@ -24,6 +24,9 @@ To edit this repository in MakeCode.
 There should be a link for you in the about description. If not, then you can play here!
 https://tape567.github.io/duck-hunters-shooter-game/
 
+## Bugs? Comments? Recommendations?
+You can always put those in this repository's issues and pull requests section! 
+
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
