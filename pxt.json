@@ -1,0 +1,43 @@
+{
+    "name": "Duck Hunters! shooter game",
+    "description": "Shoot the ducks and get the highest score! Move up and down, A to shoot, and boost your score with a 5-sec score multiplier. Made by RoboVacDev.\n\n\n\nFor Mini Game Jam #34 Outdoors Jam",
+    "dependencies": {
+        "device": "*",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.1",
+        "controller": "*",
+        "sevenseg": "*",
+        "sprite-fx": "github:kohanmathers/makecodespritefx#v1.2.0",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
+        "arcade-multi-events": "github:riknoll/arcade-multi-events#764fdc7d175d66740bf5bef4a6aa2dfd40722381",
+        "BetterArrays": "github:sargedev/betterarrays#v1.2.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Vital Icons Extension": "github:neverstopthecoder/vital-icons-extension#v0.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.30",
+        "tag": "v1.4.30",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/03118f45f1c75321e0d383d4079cf1bca1e0bdc0",
+        "target": "4.0.12",
+        "pxt": "6.12.11",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
