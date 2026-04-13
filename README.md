@@ -20,6 +20,16 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/tape567/duck-hunters-shooter-game** and click import
 
+## First Looks
+![image](https://github.com/user-attachments/assets/030e6aef-8a35-4b1f-b2f7-593c0290b870)
+![image](https://github.com/user-attachments/assets/c43196e1-d817-435b-afea-4fe957eafefe)
+![image](https://github.com/user-attachments/assets/2c96ac3e-796b-44ef-8910-4925eafec51e)
+The Vivid Plains (shown above) is my personal favorite level.
+
+## Comments? Questions?
+You can always reach me through the issues and pull request whenever needed, and I'll be happy to respond.
+
+
 ## Play my game!
 There should be a link for you in the about description. If not, then you can play here!
 https://tape567.github.io/duck-hunters-shooter-game/
