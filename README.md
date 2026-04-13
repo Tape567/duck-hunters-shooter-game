@@ -1,4 +1,5 @@
  
+<img width="6912" height="3456" alt="image" src="https://github.com/user-attachments/assets/8b005a60-80b6-448d-8f23-c6ddb04328ba" />
 
 
 > Open this page at [https://tape567.github.io/duck-hunters-shooter-game/](https://tape567.github.io/duck-hunters-shooter-game/)
