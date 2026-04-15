@@ -1,5 +1,6 @@
 {
     "name": "Duck Hunters! shooter game",
+    "version": "0.1.0",
     "description": "Shoot the ducks and get the highest score! Move up and down, A to shoot, and boost your score with a 5-sec score multiplier. Made by RoboVacDev.\n\n\n\nFor Mini Game Jam #34 Outdoors Jam",
     "dependencies": {
         "device": "*",
